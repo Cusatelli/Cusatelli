@@ -28,7 +28,12 @@
 
 ### Services
 <p>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/npm.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/firebase.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/heroku.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/swagger.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/docker.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/thymeleaf.svg" height="35" />
 </p>
 
 ### Tools

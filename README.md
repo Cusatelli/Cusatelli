@@ -19,11 +19,11 @@
 
 ### Frameworks
 <p>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/vue.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/node.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/unity.svg" height="35" />
 </p>
 
 ### Services

@@ -38,9 +38,10 @@
 
 ### Tools
 <p>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/visualstudio.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/visualstudiocode.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/intellijidea.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/androidstudio.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/eclipse.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/atom.svg" height="35" />
 </p>

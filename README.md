@@ -8,12 +8,13 @@
 
 ### Languages
 <p>
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/sass.svg" />
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/java.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/csharp.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/javascript.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/cpp.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/html5.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/css3.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/sass.svg" height="35" />
 </p>
 
 ### Frameworks

@@ -1,7 +1,7 @@
 # Hello 👋!
 
 <p>
-  💻 Occupation: Fulltime student at Linnéus University in Växjö, Sweden.<br/>
+  💻 Occupation: Fulltime IT-Consultant at Experis Academy in Växjö, Sweden.<br/>
   💬 Get in touch: https://www.linkedin.com/in/einarvandevelde/<br/>
   🌐 Check out my website https://www.cusatelli.com and let me know what you think
 </p>

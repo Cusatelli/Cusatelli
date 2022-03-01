@@ -15,6 +15,9 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/html5.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/css3.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/sass.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/mysql.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/postgresql.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/sqlite.svg" height="35" />
 </p>
 
 ### Frameworks
@@ -24,6 +27,8 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/vue.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/node.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/unity.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/springboot.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/hibernate.svg" height="35" />
 </p>
 
 ### Services
@@ -34,6 +39,11 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/swagger.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/docker.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/thymeleaf.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/github.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/gitlab.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/vite.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/gradle.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/maven.svg" height="35" />
 </p>
 
 ### Tools
@@ -44,4 +54,7 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/androidstudio.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/eclipse.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/atom.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/office.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/blender.svg" height="35" />
+  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/inkscape.svg" height="35" />
 </p>

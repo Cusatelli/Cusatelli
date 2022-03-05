@@ -1,9 +1,10 @@
 <img align="left" width="250" height="250" alt="Cusatelli" src="https://github.com/Cusatelli/Standard-README/blob/main/resources/Logo_Round.png"/>
 
-### 𝙷 𝙴 𝙻 𝙻 𝙾 <img src="#" width="30px">!
+# <img src="/resources/hello.gif" width="30px"> 𝙷𝚎𝚕𝚕𝚘!
 <br/>
 
-## 📖 𝙰𝚋𝚘𝚞𝚝
+<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/open-book--v2.png"/>
+
 💻 𝙵𝚞𝚕𝚕𝚝𝚒𝚖𝚎 𝙸𝚃-𝙲𝚘𝚗𝚜𝚞𝚕𝚝𝚊𝚗𝚝 𝚊𝚝 𝙴𝚡𝚙𝚎𝚛𝚒𝚜 𝙰𝚌𝚊𝚍𝚎𝚖𝚢 𝚒𝚗 𝚅𝚊̈𝚡𝚓𝚘̈, 𝚂𝚠𝚎𝚍𝚎𝚗.  
 💬 ![𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗.𝚌𝚘𝚖/𝚒𝚗/𝚎𝚒𝚗𝚊𝚛𝚟𝚊𝚗𝚍𝚎𝚟𝚎𝚕𝚍𝚎/](𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗.𝚌𝚘𝚖/𝚒𝚗/𝚎𝚒𝚗𝚊𝚛𝚟𝚊𝚗𝚍𝚎𝚟𝚎𝚕𝚍𝚎/)  
 🌐 ![𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚌𝚞𝚜𝚊𝚝𝚎𝚕𝚕𝚒.𝚌𝚘𝚖](𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚌𝚞𝚜𝚊𝚝𝚎𝚕𝚕𝚒.𝚌𝚘𝚖)
@@ -12,7 +13,7 @@
 
 ## ⚡ 𝚃𝚎𝚌𝚑𝚜𝚝𝚊𝚌𝚔
 ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
-<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/open-book--v2.png"/>
+<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/laptop--v1.png"/>
 <p>
     <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/java.svg" height="35" />
     <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/csharp.svg" height="35" />

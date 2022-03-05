@@ -1,4 +1,4 @@
-<img align="left" width="250" height="250" alt="Cusatelli" src="https://github.com/Cusatelli/Standard-README/blob/main/resources/Logo_Round.png"/>
+<img align="left" width="250" height="250" alt="Cusatelli" src="https://github.com/Cusatelli/Standard-README/blob/main/resources/Logo_Square.png"/>
 
 # <img src="/resources/hello.gif" width="30px"> 𝙷𝚎𝚕𝚕𝚘!
 <br/>

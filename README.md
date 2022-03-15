@@ -2,7 +2,7 @@
 
 # <img src="/resources/hello.gif" width="30px"> 𝙷𝚎𝚕𝚕𝚘!
 
-### Till Ronny: [StoryBlok Headless CMS](https://github.com/Cusatelli/Headless-CMS/settings)
+### Till Ronny: [StoryBlok Headless CMS](https://github.com/Cusatelli/Headless-CMS/)
 <br/>
 
 <img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/open-book--v2.png"/>

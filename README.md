@@ -79,6 +79,6 @@
 
 ## 📬 𝙲𝚘𝚗𝚝𝚊𝚌𝚝
 <!--<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/mailbox-with-letter.png">-->
-🌐 <a href="https://www.linkedin.com/in/einarvandevelde/">𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗.𝚌𝚘𝚖/𝚒𝚗/𝚎𝚒𝚗𝚊𝚛𝚟𝚊𝚗𝚍𝚎𝚟𝚎𝚕𝚍𝚎</a><br/>
+💬 <a href="https://www.linkedin.com/in/einarvandevelde/">𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗.𝚌𝚘𝚖/𝚒𝚗/𝚎𝚒𝚗𝚊𝚛𝚟𝚊𝚗𝚍𝚎𝚟𝚎𝚕𝚍𝚎</a><br/>
 🌐 <a href="https://www.cusatelli.com">𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚌𝚞𝚜𝚊𝚝𝚎𝚕𝚕𝚒.𝚌𝚘𝚖</a><br/>
 📧 <a href="mailto:github.cusatelli@gmail.com">𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚞𝚜𝚊𝚝𝚎𝚕𝚕𝚒@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</a>

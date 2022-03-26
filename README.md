@@ -2,9 +2,6 @@
 
 # <img src="/resources/hello.gif" width="30px"> 𝙷𝚎𝚕𝚕𝚘!
 
-### Till Ronny: [StoryBlok Headless CMS](https://github.com/Cusatelli/Headless-CMS/)
-<br/>
-
 <img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/open-book--v2.png"/>
 
 💻 𝙵𝚞𝚕𝚕𝚝𝚒𝚖𝚎 𝙸𝚃-𝙲𝚘𝚗𝚜𝚞𝚕𝚝𝚊𝚗𝚝 𝚊𝚝 𝙴𝚡𝚙𝚎𝚛𝚒𝚜 𝙰𝚌𝚊𝚍𝚎𝚖𝚢 𝚒𝚗 𝚅𝚊̈𝚡𝚓𝚘̈, 𝚂𝚠𝚎𝚍𝚎𝚗.  

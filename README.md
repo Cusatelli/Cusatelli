@@ -17,6 +17,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ## ⚡ Techstack
 
@@ -42,6 +43,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 <img align="left" width="256" src="./resources/images/techstack/Frameworks.png"/>
 
@@ -59,6 +61,7 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/hibernate.svg" height="35" />
 </p>
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -86,6 +89,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 <img align="left" width="256" src="./resources/images/techstack/Tools.png"/>
 
@@ -108,6 +112,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ## 📈 Metrics
 
@@ -117,6 +122,7 @@
   <img alt="Cusatelli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cusatelli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=F8D866&hide=Jupyter%20Notebook" height="250"/>
 </a>
 
+<br/>
 <br/>
 <br/>
 <br/>

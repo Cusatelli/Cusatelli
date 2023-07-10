@@ -3,19 +3,29 @@
 
 # <img src="./resources/hello.gif" width="30px"> **Hello!**
 
-<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/open-book--v2.png"/>
+<img align="left" width="256" src="./resources/images/contact/Info.png"/>
+<br/>
+<br/>
+<br/>
 
-💻 Fulltime Software Developer at Play'N GO in Växjö, Sweden.  
+💻 Fulltime Software Developer at Play'N GO in Växjö, Sweden.
+<br/>
+<br/> 
 💬 <a href="https://www.linkedin.com/in/einarvandevelde">https://www.linkedin.com/in/einarvandevelde</a><br/>
-🌐 <a href="https://www.cusatelli.com">https://www.cusatelli.com</a><br/>
+🌐 <a href="https://www.cusatelli.com">https://www.cusatelli.com</a>
 
-<br/><br/>
+<br/>
+<br/>
+<br/>
 
 ## ⚡ Techstack
 
+<img align="left" width="256" src="./resources/images/techstack/Languages.png"/>
+
+<br/>
+
 ### Languages
 
-<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/laptop--v1.png"/>
 <p>
     <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/java.svg" height="35" />
     <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/csharp.svg" height="35" />
@@ -27,11 +37,18 @@
     <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/mysql.svg" height="35" />
     <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/postgresql.svg" height="35" />
     <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/sqlite.svg" height="35" />
-</p><br/>
+</p>
+
+<br/>
+<br/>
+<br/>
+
+<img align="left" width="256" src="./resources/images/techstack/Frameworks.png"/>
+
+<br/>
 
 ### Frameworks
 
-<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/full-tool-storage-box-.png"/>
 <p>
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" height="35" />
@@ -40,11 +57,18 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/unity.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/springboot.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/hibernate.svg" height="35" />
-</p><br/><br/>
+</p>
+
+<br/>
+<br/>
+<br/>
+
+<img align="left" width="256" src="./resources/images/techstack/Services.png"/>
+
+<br/>
 
 ### Services
 
-<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/service-bell.png"/>
 <p>
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/npm.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/firebase.svg" height="35" />
@@ -57,11 +81,18 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/vite.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/gradle.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/maven.svg" height="35" />
-</p><br/>
+</p>
+
+<br/>
+<br/>
+<br/>
+
+<img align="left" width="256" src="./resources/images/techstack/Tools.png"/>
+
+<br/>
 
 ### Tools
 
-<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/maintenance.png"/>
 <p>
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/visualstudio.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/visualstudiocode.svg" height="35" />
@@ -72,19 +103,32 @@
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/office.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/blender.svg" height="35" />
   <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/inkscape.svg" height="35" />
-</p><br/>
+</p>
+
+<br/>
+<br/>
+<br/>
 
 ## 📈 Metrics
 
-<!--<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/graph.png"/>-->
+<img align="left" width="256" src="./resources/images/data/Metrics.png"/>
+
 <a href="#">
   <img alt="Cusatelli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cusatelli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=F8D866&hide=Jupyter%20Notebook" height="250"/>
 </a>
 
+<br/>
+<br/>
+<br/>
+
 ## 📬 Contact
 
-<!--<img align="left" width="96" height="96" src="https://img.icons8.com/color/96/000000/mailbox-with-letter.png">-->
+<img align="left" width="256" src="./resources/images/contact/Contact.png"/>
 
-💬 <a href="https://www.linkedin.com/in/einarvandevelde">https://www.linkedin.com/in/einarvandevelde</a><br/>
+### Websites
 🌐 <a href="https://www.cusatelli.com">https://www.cusatelli.com</a><br/>
+🌐 <a href="https://www.einarvandevelde.com">https://www.einarvandevelde.com</a><br/>
+
+### Socials
+💬 <a href="https://www.linkedin.com/in/einarvandevelde">https://www.linkedin.com/in/einarvandevelde</a><br/>
 📧 <a href="mailto:github.cusatelli@gmail.com">github.cusatelli@gmail.com</a><br/>

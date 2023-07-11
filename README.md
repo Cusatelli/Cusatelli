@@ -1,7 +1,7 @@
 <img align="center" width="100%" alt="Cusatelli" src="./resources/Cusatelli_README_Header_Banner.png"/>
-<br/>
+<hr/>
 
-## <img align="left" width="100%" src="./resources/images/contact/Info.png"/>
+## <img align="left" width="100%" src="./resources/images/contact/Info.png" alt="Hello & Welcome to my GitHub profile"/>
 
 # 👋 Hello there! Welcome to my GitHub profile!
 
@@ -19,7 +19,7 @@ Feel free to dive into my projects, learn from my code, and don't hesitate to re
 
 <hr/>
 
-### <img align="left" width="100%" src="./resources/images/techstack/Languages.png"/>
+### <img align="left" width="100%" src="./resources/images/techstack/Languages.png" alt="Languages"/>
 
 <p>
     <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/java.svg" height="35" />
@@ -34,78 +34,81 @@ Feel free to dive into my projects, learn from my code, and don't hesitate to re
     <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/languages/sqlite.svg" height="35" />
 </p>
 
-### <img align="left" width="100%" src="./resources/images/techstack/Frameworks.png"/>
+### <img align="left" width="100%" src="./resources/images/techstack/Frameworks.png" alt="Frameworks"/>
 
+<br/>
 <p>
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/vue.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/node.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/unity.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/springboot.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/hibernate.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/react.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/angular.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/vue.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/node.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/unity.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/springboot.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/frameworks/hibernate.svg" height="35" />
 </p>
 
-### <img align="left" width="100%" src="./resources/images/techstack/Services.png"/>
+### <img align="left" width="100%" src="./resources/images/techstack/Services.png" alt="Services"/>
 
+<br/>
 <p>
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/npm.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/firebase.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/heroku.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/swagger.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/docker.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/thymeleaf.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/github.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/gitlab.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/vite.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/gradle.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/maven.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/npm.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/firebase.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/heroku.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/swagger.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/docker.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/thymeleaf.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/github.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/gitlab.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/vite.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/gradle.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/services/maven.svg" height="35" />
 </p>
 
-### <img align="left" width="100%" src="./resources/images/techstack/Tools.png"/>
+### <img align="left" width="100%" src="./resources/images/techstack/Tools.png" alt="Tools"/>
 
+<br/>
 <p>
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/visualstudio.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/visualstudiocode.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/intellijidea.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/androidstudio.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/eclipse.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/atom.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/office.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/blender.svg" height="35" />
-  <img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/inkscape.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/visualstudio.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/visualstudiocode.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/intellijidea.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/androidstudio.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/eclipse.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/atom.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/office.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/blender.svg" height="35" />
+	<img src="https://github.com/Cusatelli/Colored-Badges/blob/main/svg/tools/inkscape.svg" height="35" />
 </p>
 
 <hr/>
 
-## <img align="left" width="100%" src="./resources/images/data/Metrics.png"/>
+## <img align="left" width="100%" src="./resources/images/data/Metrics.png" alt="Metrics"/>
 
 <table align="center">
 	<tr>
 		<td style="text-align:right;">
 			<picture>
 				<source
-					srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Cusatelli&langs_count=15&layout=donut&hide_border=true&show_icons=true&hide=TeX&size_weight=0.5&count_weight=0.5&theme=transparent&title_color=fffefe&text_color=fffefe"
+					srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Cusatelli&langs_count=15&layout=donut&hide_border=true&show_icons=true&hide=TeX&size_weight=0.5&count_weight=0.5&theme=transparent&hide_title=true&text_color=fffefe"
 					media="(prefers-color-scheme: dark)"
 				/>
 				<source
-					srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Cusatelli&langs_count=15&layout=donut&hide_border=true&show_icons=true&hide=TeX&size_weight=0.5&count_weight=0.5&theme=default"
+					srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Cusatelli&langs_count=15&layout=donut&hide_border=true&show_icons=true&hide=TeX&hide_title=true&size_weight=0.5&count_weight=0.5&theme=default"
 					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 				/>
-				<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cusatelli&langs_count=15&layout=donut&hide_border=true&show_icons=true&hide=TeX&size_weight=0.5&count_weight=0.5&theme=default" />
+				<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cusatelli&langs_count=15&layout=donut&hide_border=true&show_icons=true&hide=TeX&hide_title=true&size_weight=0.5&count_weight=0.5&theme=default" />
 			</picture>
 		</td>
 		<td style="text-align:left;">
 			<picture>
 				<source
-					srcset="https://github-readme-stats.vercel.app/api?username=Cusatelli&hide_border=true&show_icons=true&hide=contribs&theme=transparent&title_color=fffefe&text_color=fffefe"
+					srcset="https://github-readme-stats.vercel.app/api?username=Cusatelli&hide_border=true&show_icons=true&hide=contribs&theme=transparent&hide_title=true&text_color=fffefe"
 					media="(prefers-color-scheme: dark)"
 				/>
 				<source
-					srcset="https://github-readme-stats.vercel.app/api?username=Cusatelli&hide_border=true&show_icons=true&hide=contribs&theme=default"
+					srcset="https://github-readme-stats.vercel.app/api?username=Cusatelli&hide_border=true&show_icons=true&hide=contribs&hide_title=true&theme=default"
 					media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 				/>
-				<img src="https://github-readme-stats.vercel.app/api?username=Cusatelli&hide_border=true&show_icons=true&hide=contribs&theme=default" />
+				<img src="https://github-readme-stats.vercel.app/api?username=Cusatelli&hide_border=true&show_icons=true&hide=contribs&hide_title=true&theme=default" />
 			</picture>
 		</td>
 	</tr>
@@ -113,37 +116,33 @@ Feel free to dive into my projects, learn from my code, and don't hesitate to re
 
 <hr/>
 
-## <img align="left" width="100%" src="./resources/images/contact/Contact.png"/>
+## <img align="left" width="100%" src="./resources/images/contact/Contact.png" alt="Contact"/>
 
 <table align="center">
-  <tr>
-    <td style="text-align:right">
-		<div>
-			<h2>Websites</h2> <!-- omit in toc -->
-			<h3>
-				🌐
-				<a href="https://www.cusatelli.com">https://www.cusatelli.com</a>
-			</h3> <!-- omit in toc -->
-			<h3>
-				🌐
-				<a href="https://www.einarvandevelde.com">https://www.einarvandevelde.com</a>
-			</h3> <!-- omit in toc -->
-		</div>
-	</td>
-    <td style="text-align:left">
-		<div>
-			<h2>Socials</h2> <!-- omit in toc -->
-			<h3>
-				💬
-				<a href="https://www.linkedin.com/in/einarvandevelde">https://www.linkedin.com/in/einarvandevelde</a>
-			</h3> <!-- omit in toc -->
-			<h3>
-				📧
-				<a href="mailto:github.cusatelli@gmail.com">github.cusatelli@gmail.com</a>
-			</h3> <!-- omit in toc -->
-		</div>
-	</td>
-  </tr>
+	<tr>
+		<td>
+			<div>
+				<h2>Websites</h2> <!-- omit in toc -->
+				<h3>
+					🌐 <a href="https://www.cusatelli.com">www.cusatelli.com</a>
+				</h3> <!-- omit in toc -->
+				<h3>
+					🌐 <a href="https://www.einarvandevelde.com">www.einarvandevelde.com</a>
+				</h3> <!-- omit in toc -->
+			</div>
+		</td>
+	    	<td>
+			<div>
+				<h2>Socials</h2> <!-- omit in toc -->
+				<h3>
+					💬 <a href="https://www.linkedin.com/in/einarvandevelde">linkedin.com/in/einarvandevelde</a>
+				</h3> <!-- omit in toc -->
+				<h3>
+					📧 <a href="mailto:github.cusatelli@gmail.com">github.cusatelli@gmail.com</a>
+				</h3> <!-- omit in toc -->
+			</div>
+		</td>
+	</tr>
 </table>
 
 <hr/>

@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="Cusatelli" src="./resources/Cusatelli_README_Header_Banner.png"/>
+<img align="center" width="100%" alt="Cusatelli" src="./resources/Cusatelli_README_Header_Banner_NoCompany.png"/>
 <hr/>
 
 ## <img align="left" width="100%" src="./resources/images/contact/Info.png" alt="Hello & Welcome to my GitHub profile"/>

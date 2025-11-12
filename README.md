@@ -3,19 +3,14 @@
 
 ## <img align="left" width="100%" src="./resources/images/contact/Info.png" alt="Hello & Welcome to my GitHub profile"/>
 
-# 👋 Hello there! Welcome to my GitHub profile!
+# 👋 Welcome to my GitHub!
 
-I'm thrilled to have you here, exploring my world of **creativity**, **innovation**, and **collaboration**. Allow me to give you a glimpse of what you'll find in my repositories.
+Here you'll find projects in different languages and technologies, including web, data, and mobile.
 
-I'm a passionate developer who loves crafting software solutions that make a **positive impact**.
+Check out my repositories to see my code and how I solve problems.  
+If you have questions or want to connect, feel free to reach out.
 
-As you browse through my profile, you'll discover a collection of repositories that demonstrate my expertise in various programming languages, frameworks, and technologies. From web development to data analysis, machine learning to mobile applications, my work should reflect my **versatility** and **thirst for knowledge**.
-
-Each repository provides insights into my problem-solving abilities, coding style, and dedication to producing clean, well-documented code. Whether you're a fellow developer, a recruiter, or simply an enthusiast, I hope there's something here for everyone to learn and appreciate.
-
-Feel free to dive into my projects, learn from my code, and don't hesitate to reach out if you have any inquiries. Be sure to follow along to stay updated on my future endeavors and witness my growth as a software developer.
-
-**Thank you for visiting my GitHub profile, and enjoy!**
+**Thanks for visiting!**
 
 <hr/>
 

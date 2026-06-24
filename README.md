@@ -2,29 +2,7 @@
 
 _Full Stack Software Developer_
 
-I specialize in building accessible, high-performance applications. With a background in both frontend and backend development, I bring a well-rounded approach to digital experiences.
-
-<hr/>
-
-## What I Do
-
-Where I spend most of my time.
-
-- [Portfolio (cusatelli.com)](https://cusatelli.com)
-- [ModKit (modkit.org)](https://modkit.org)
-- [Kompass Designsystem (kompass.modkit.org)](https://kompass.modkit.org)
-
-### Frontend Development
-
-Vue first, Blazor and React when the project calls for it. But most importantly, semantic HTML and CSS before any framework gets involved.
-
-### Backend & Cloud
-
-.NET and C# day-to-day, Node on Cloudflare Workers for edge APIs. I like backends that are simple and predictable.
-
-### Accessibility & Performance
-
-I audit with axe and NVDA, test keyboard flows by hand, and track down contrast failures before design review.
+I build accessible, fast and maintainable applications. With experience in frontend and backend development, I can build digital experiences that are robust and user-friendly.
 
 <hr/>
 
@@ -44,6 +22,29 @@ In-progress design system. Accessible web component library built for Norwegian 
 Recreating arcade classics. Built with the most performant tech for the job. Each game is a little playground for trying out new web APIs and performance optimizations.
 
 - [View games (cusatelli.com/games)](https://cusatelli.com/games)
+
+<hr/>
+
+## What I Do
+
+Where I spend most of my time.
+
+- [Portfolio (cusatelli.com)](https://cusatelli.com)
+- [Hviktor (helsevestikt.github.io)](https://helsevestikt.github.io/hviktor-blazor)
+- [ModKit (modkit.org)](https://modkit.org)
+- [Kompass Designsystem (kompass.modkit.org)](https://kompass.modkit.org)
+
+### Frontend Development
+
+Vue first, Blazor and React when the project calls for it. But most importantly, using the right tool for the job.
+
+### Backend & Cloud
+
+.NET and C# day-to-day, Node on Cloudflare Workers for edge APIs. I like backends that are simple and maintainable.
+
+### Accessibility & Performance
+
+I audit with axe and NVDA, test keyboard flows by hand, and track down contrast failures before design review.
 
 <hr/>
 

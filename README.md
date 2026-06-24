@@ -4,8 +4,6 @@ _Full Stack Software Developer_
 
 I build accessible, fast and maintainable applications. With experience in frontend and backend development, I can build digital experiences that are robust and user-friendly.
 
-<hr/>
-
 ## Featured Work
 
 Things I've built and still maintain.
@@ -17,13 +15,22 @@ In-progress design system. Accessible web component library built for Norwegian 
 - [GitHub (github.com/modkit-org/kompass)](https://github.com/modkit-org/kompass)
 - [Website (kompass.modkit.org)](https://kompass.modkit.org/)
 
+### Hviktor Component Library
+
+Hviktor is a modern Blazor component library developed by Helse Vest IKT. The library is based on the design system from [Designsystemet (designsystemet.no)](https://designsystemet.no/) and [Aksel (aksel.nav.no)](https://aksel.nav.no/).
+
+Hviktor builds on the work from [Designsystemet (designsystemet.no)](https://designsystemet.no/) and aims to offer equivalent functionality for Blazor developers.
+
+In-progress design system. Accessible web component library built for Norwegian businesses. Ships WCAG 2.1 AA compliance, full dark mode support, Tailwind CSS integration, and comprehensive documentation.
+
+- [GitHub (github.com/HelseVestIKT/hviktor-blazor)](https://github.com/HelseVestIKT/hviktor-blazor)
+- [Website (helsevestikt.github.io)](https://helsevestikt.github.io/hviktor-blazor/)
+
 ### Web Games Collection
 
 Recreating arcade classics. Built with the most performant tech for the job. Each game is a little playground for trying out new web APIs and performance optimizations.
 
 - [View games (cusatelli.com/games)](https://cusatelli.com/games)
-
-<hr/>
 
 ## What I Do
 
@@ -45,8 +52,6 @@ Vue first, Blazor and React when the project calls for it. But most importantly,
 ### Accessibility & Performance
 
 I audit with axe and NVDA, test keyboard flows by hand, and track down contrast failures before design review.
-
-<hr/>
 
 ## Contact
 
